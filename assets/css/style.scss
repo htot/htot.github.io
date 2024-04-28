@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+header {
+  width: 250px;
+}
+
+section {
+  width: auto;
+  float: none;
+  padding-left: 300px;
+}
+
+.wrapper {
+  width: 100%;
+}
